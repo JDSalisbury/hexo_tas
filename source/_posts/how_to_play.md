@@ -1,5 +1,6 @@
 ---
 title: How to play
+date: 2020-12-14 07:40:12
 ---
 ___
 Players Take Turns Moving around the board Fighting Enemy Units And/or Sacraficing life to Offering Fountains
