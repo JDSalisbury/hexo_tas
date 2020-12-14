@@ -25,7 +25,7 @@ Players draw 5 Fate Cards. At the start of the game. (Max Hand Size 5)
 
 Each Player draws an aditional Fate Card at the beginning of their turn.
 
-    At the end of your turn, you must discard Fate Cards to Max Hand Size.
+> At the end of your turn, you must discard Fate Cards to Max Hand Size.
 
 <br>
 
@@ -64,9 +64,8 @@ A unit my perform one of 4 different types of actions a turn.
 * It may make a Basic Attack against an Enemy Unit thats in range by rolling a 2D6 and adding its BAB against the Enemy Units AC. 
 * It may use a Special Attack ability either on the card or one given from an Equipment
 
-    ![Doge](https://git.io/Doge) 
     
-        IF an attack roll is 14, and the enemy units AC is 14. The attack misses. You must exceed the enemies AC to hit. 
+    >  ![Doge](https://git.io/Doge) IF an attack roll is 14, and the enemy units AC is 14. The attack misses. You must exceed the enemies AC to hit.
 
 * It may sacrafice 4 HP to an Offering Fountain. 
 

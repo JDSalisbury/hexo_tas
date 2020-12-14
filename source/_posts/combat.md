@@ -25,12 +25,15 @@ The Defending Unit blocks with its AC Stat
     IF the Attacking units 2D6 + BAB				
     is HIGHER then the Defending Units AC:			
                     
-    DMG is dealt. 				
+    DMG is dealt.
+<br>
 
     IF the Attacking units 2D6 + BAB 				
     is LOWER then the Defending Units AC:		
                     
-    The Attack is Blocked. No DMG is dealt. 				
+    The Attack is Blocked. No DMG is dealt.
+
+<br>
 
     IF the Attacking Units 2D6 + BAB				
     is TIED with the Defending Units AC:			
