@@ -3,8 +3,8 @@ title: How to play
 date: 2020-12-14 07:40:12
 ---
 ___
-Players Take Turns Moving around the board Fighting Enemy Units And/or Sacraficing life to Offering Fountains
-The winner is the last player with Units Left on the Board or The player to Sacrafice 4 HP into all 4 Offering Fountains.
+Players take turns moving around the board fighting Enemy Units and/or sacraficing life to Offering Fountains.
+The winner is the last player with Units left on the board or the player to sacrafice 4 HP into all 4 Offering Fountains.
 
 ![Offering Point](./how_to_play/Offering-Fountain.jpg)
 
@@ -13,7 +13,7 @@ The winner is the last player with Units Left on the Board or The player to Sacr
 ### Who Goes first
 Decide who plays first by rolling the 2D6 (2 six sided dice) provided in the box.
 
-High Roll wins.
+High roll wins.
 
 Turns are then played out in a clockwise fashion.
 
@@ -23,7 +23,7 @@ Turns are then played out in a clockwise fashion.
 
 Players draw 5 Fate Cards. At the start of the game. (Max Hand Size 5)
 
-Each Player Draws An Aditional Fate Card at the Beginning of their turn.
+Each Player draws an aditional Fate Card at the beginning of their turn.
 
     At the end of your turn, you must discard Fate Cards to Max Hand Size.
 
@@ -31,15 +31,15 @@ Each Player Draws An Aditional Fate Card at the Beginning of their turn.
 
 ### A Players Turn
 
-Start by Drawing a Fate Card.
+Start by drawing a Fate Card.
 
 <br>
 
 The Active Player may use their Units in any order.
 
-That Player Must Complete One Units Turn at a time.
+That Player must complete one units turn at a time.
 
-A Units Turn has Two Steps Which can be Performed in any order. 							
+A Units turn has two steps which can be performed in any order. 							
 							
 * #### Movement							
 * #### Action
@@ -49,36 +49,38 @@ A Units Turn has Two Steps Which can be Performed in any order.
 
 #### Movement 
 
-Movement Of a Unit is Displayed by the (symbol/SPD) Stat.
+Movement Of a Unit is displayed by the (symbol/SPD) stat.
 
-If A Units Movement is 10 it may move up to ten spaces on the board.
+If A Units movement is 10 it may move up to ten spaces on the board.
 
-* If it only moves four, then it is done with its movement for that Units Turn. It can not move the Remaining Six.
-* You may Move through your own Units, but not Enemy Units. 						
+* If it only moves four, then it is done with its movement for that Units turn. It cannot move the remaining six. You cannot split movement.
+* You may move through your own Units, but not Enemy Units. 						
 
 
 <br>
 
 #### Action							
-A unit my Perform One of Four Different Types of Actions A turn.							
-* It may make a Basic Attack against an Enemy Unit thats in range by rolling a 2D6 and Adding its BAB against the Enemy Units AC. 
-* It may use a Special Attack Ability either on the card or one given from an Equipment
+A unit my perform one of 4 different types of actions a turn.							
+* It may make a Basic Attack against an Enemy Unit thats in range by rolling a 2D6 and adding its BAB against the Enemy Units AC. 
+* It may use a Special Attack ability either on the card or one given from an Equipment
 
-    ![Doge](https://git.io/Doge) IF an Attack roll is 14, and the enemy units AC is 14. The Attack Misses. You must Exceed the enemies AC to hit. 
+    ![Doge](https://git.io/Doge) 
+    
+        IF an attack roll is 14, and the enemy units AC is 14. The attack misses. You must exceed the enemies AC to hit. 
 
-* It may Sacrafice 4 HP to an Offering Fountain. 
+* It may sacrafice 4 HP to an Offering Fountain. 
 
-    Unit must be on the Offering Fountain to Sacrafice 4 HP to it. 
+    The Unit must be on the Offering Fountain space to sacrafice 4 HP to it. 
 	
 <br>    
 
 #### Free Action 
-Free actions are Free and you may still use a Basick Attack, Special Attack, or Sacrafice.						
+Free actions are Free and you may still use a Basick Attack, Special Attack, or sacrafice to an Offering Fountain.						
 
 
 ### Using Fate Cards
 
-You may only Use on Fate Card A turn. There are two types of Fate Cards
+You may only use one Fate Card a turn. There are two types of Fate Cards:
 
 * #### Crystals
 
@@ -93,4 +95,4 @@ Crystals are resources for other Fate Cards and some Unit cards to use, they don
 
 #### Blessings
 
-You can Use a Blessing card anytime during your turn. Place the Fate card in the Discard pile after use.
+You can Use a Blessing card anytime during your turn. Place the Fate card in the discard pile after use.

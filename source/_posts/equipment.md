@@ -10,9 +10,9 @@ Equipment is primarily attached by the Fate Card EQUIP
 ![EQUIP FATE CARD](./equipment/EQUIP.jpg)
 
 
-The Equip Fate Card allows you to draw two+ cards from the Equipment Deck and immediately equip them to Any Unit you own.
+The Equip Fate Card allows you to draw two+ cards from the Equipment Deck and immediately equip them to any Unit you own.
 
-A Unit may only be Equipped with an equipment card if they have the necessary Equipment Slots (ES), you may discard equipment already equipped to a unit to fit new Equipment onto the target Unit.
+A Unit may only be equipped with an equipment card if they have the necessary Equipment Slots (ES), you may discard equipment already equipped to a unit to fit new Equipment onto the target Unit.
 
 
 A unit may be re-equipped with new equipment
