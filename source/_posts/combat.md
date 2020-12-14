@@ -1,5 +1,6 @@
 ---
-title: Combat		
+title: Combat
+date: 2020-12-14 09:40:12
 ---
 ___			
 Units Have a Range Shown on the Unit Card Here				
