@@ -21,6 +21,3 @@ A Unit has many parts,
 7. Unit Abilities:  Here you will find Special Actions or Special Movements the can be preformed by the unit. The "Unrooted" Unit has two abilites. 			
     * The first Ability is a BAB Ability and affects the cards BAB when Attacking. 
     * The Second ability is a DMG ability know as Toxicity 2, this ability accures when DMG is Dealt. 			
-
-<br>
-<br>

@@ -18,5 +18,3 @@ The Following is an Example of A Unit with SPD 4. Notice on the map, the highlig
 A Unit with the static ability UNIMPEDED Can move through Enemy Units and Over barriers, but my not stop on these spaces.
 
 ![UNIMPEDED](./movement/CRAWLER-3.jpg)
-
-<br>

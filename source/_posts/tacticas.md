@@ -20,10 +20,6 @@ Whatever kind of God you choose to be, do it quickly, for The Shattering will se
 5. 1 Map
 6. 40 Figure Bases
 
-___
-<br>
-
-
 
 
 

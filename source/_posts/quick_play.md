@@ -7,7 +7,7 @@ ___
 ![Quick Play](./quick_play/qp.jpg)
 
 
-### Step 1
+### Step 1 Pick your Units
 Each Player Picks 1 of the main factions.
 
 1. Arachin
@@ -19,9 +19,9 @@ Each Player Picks 1 of the main factions.
 * Each Player is also given a CRAWLER unit, and a Hound unit.
 <br>
 
-### Step 2
+### Step 2 Create your Army
 
-Each Player then creates a 10 Point Army to play with out of the factions units they have selected. 
+Each Player then creates an Army with a point value of 10 or less to play with out of the factions units they have selected. 
 
 Point value of a card can be found in the upper left hand corner of the card.
 
@@ -41,7 +41,3 @@ Shuffle the Fate deck, and equipment deck. Place them to the side.
 <br>
 
 ### The board is ready!
-___
-<br>
-
-<br>

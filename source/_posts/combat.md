@@ -67,5 +67,3 @@ In this image, lines are drawn from the center of one Hex, to the center of anot
 If the line comes in contact with a Wall or an enemy unit before the Target Hex, the unit cannont be Targeted. 	
 
 If the line doesnt come in contact with a wall or an enemy unit before the target Hex, the target is legal.
-<br>
-<br>

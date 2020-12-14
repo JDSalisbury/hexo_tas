@@ -94,7 +94,3 @@ Crystals are resources for other Fate Cards and some Unit cards to use, they don
 #### Blessings
 
 You can Use a Blessing card anytime during your turn. Place the Fate card in the Discard pile after use.
-<br>
-
-
-<br>
