@@ -27,4 +27,6 @@ Blessings allow the player to perform a powerful action each turn, while Crystal
 
 The SOUL Fate Card has two options on how to play it. It can either be used to revive a fallen unit, or, if you have four CRYSTAL Fate cards, can be used to summon The Shattering to your start zone to aid you in battle.
 
-The Shatting is a strong Unit and is capable of ending the game quickly. But waiting to collect all those CRYSTAL Fate Cards could make you fall behind the competition.
+The Shatting is a strong Unit and capable of ending the game quickly. But waiting to collect all those CRYSTAL Fate Cards could make you fall behind the competition.
+
+![THE SHATTERING!!!](./fate_cards/THE_SHATTERING.jpg)
