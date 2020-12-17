@@ -2,7 +2,7 @@
 title: Fate Cards
 date: 2020-12-14 11:42:12
 ---
-
+At the beginning of your turn, Draw A Fate Card. (Max Hand Size is 5, at the end of your turn, you must discard Fate Cards down to Max Hand Size.)
 There are two main types of Fate Cards, You my only play a Blessing Once per turn.
 
 #### Crystals
