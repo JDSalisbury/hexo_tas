@@ -12,7 +12,7 @@ There are two main types of Fate Cards, You my only play a Blessing Once per tur
 
 #### Blessings
 
-You may only Use one Blessing a turn.
+You may only Use one Blessing a turn. If a Blessing targets a Unit, You must use the Blessing before you start using actions with target Unit. Using the Blessing on the Unit happens before any Actions or Movement is made with that Unit.
 
 ![CRITICAL Fate Card is used to give a unit extra DMG on Successful Attack Actions a Unit may take.](./fate_cards/CRITICAL.jpg)
 
