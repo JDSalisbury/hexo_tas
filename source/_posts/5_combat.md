@@ -5,7 +5,7 @@ date: 2020-12-14 09:40:12
 ___			
 Units have a range (RNG) Shown on the Unit Card here				
 
-![Unit](./combat/combat_unit.PNG)
+![Unit](./5_combat/combat_unit.PNG)
 				
 When A Unit wants to engage combat with another				
 Unit within its RNG it may chose between a Basic Attack				
@@ -50,7 +50,7 @@ Line of site comes into play with Ranged Attacks.
 				
 When it comes to line of sight, sometimes you have to use your best judgment.
 
-![Line Of Sight](./combat/los.PNG)
+![Line Of Sight](./5_combat/los.PNG)
 
 The image above shows the avalible targets a unit has if its standing in the YELLOW hex on the map.
 
@@ -60,7 +60,7 @@ The BLUE highlited hex on the map are untargetable units.
 
 The WHITE Hex are targetable hexes by drawing a straight line From the CENTER of the YELLOW hex to the CENTER of the targeted hex.
 
-![Line Of Sight](./combat/los2.PNG)
+![Line Of Sight](./5_combat/los2.PNG)
 
 In this image, lines are drawn from the center of one hex, to the center of another.	
 

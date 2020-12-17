@@ -7,14 +7,14 @@ There are two main types of Fate Cards, You my only play a Blessing Once per tur
 
 #### Crystals
 
-![CRYSTAL Fate Card](./fate_cards/CRYSTAL.jpg)
+![CRYSTAL Fate Card](./8_fate_cards/CRYSTAL.jpg)
 
 
 #### Blessings
 
 You may only Use one Blessing a turn. If a Blessing targets a Unit, You must use the Blessing before you start using actions with target Unit. Using the Blessing on the Unit happens before any Actions or Movement is made with that Unit.
 
-![CRITICAL Fate Card is used to give a unit extra DMG on Successful Attack Actions a Unit may take.](./fate_cards/CRITICAL.jpg)
+![CRITICAL Fate Card is used to give a unit extra DMG on Successful Attack Actions a Unit may take.](./8_fate_cards/CRITICAL.jpg)
 
 The CRITICAL Fate Card can only be used on a Unit before you use any Actions or Movement for that Unit.
 
@@ -24,11 +24,11 @@ Blessings allow the player to perform a powerful action each turn, while Crystal
 
 > The most powerful of all the Fate Cards is the SOUL Fate Card.
 
-![SOUL Fate Card allows you to revive a fallen Unit that has been destroyed and not condemned back to your start zone, its equipment will remain with that Unit](./fate_cards/SOUL.jpg)
+![SOUL Fate Card allows you to revive a fallen Unit that has been destroyed and not condemned back to your start zone, its equipment will remain with that Unit](./8_fate_cards/SOUL.jpg)
 
 
 The SOUL Fate Card has two options on how to play it. It can either be used to revive a fallen unit, or, if you have four CRYSTAL Fate cards, can be used to summon The Shattering to your start zone to aid you in battle. (Summoning The Shattering with the SOUL Fate Card counts as using a Blessing the for that turn. You may only use one Blessing a turn.)
 
 The Shatting is a strong Unit and capable of ending the game quickly. But waiting to collect all those CRYSTAL Fate Cards could make you fall behind the competition.
 
-![THE SHATTERING!!!](./fate_cards/THE_SHATTERING.jpg)
+![THE SHATTERING!!!](./8_fate_cards/THE_SHATTERING.jpg)

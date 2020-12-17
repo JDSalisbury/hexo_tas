@@ -7,7 +7,7 @@ ___
 
 Equipment is primarily attached by the Fate Card EQUIP
 
-![EQUIP FATE CARD](./equipment/EQUIP.jpg)
+![EQUIP FATE CARD](./7_equipment/EQUIP.jpg)
 
 
 The Equip Fate Card allows you to draw two+ cards from the Equipment Deck and immediately equip them to any Unit you own.
@@ -22,7 +22,7 @@ There are 3 different types of Equipment:
 
 #### Gem
 
-![RUBY gives +2 to HP stat, this will also give the Unit 2 HP when equipped.](./equipment/RUBY.jpg)
+![RUBY gives +2 to HP stat, this will also give the Unit 2 HP when equipped.](./7_equipment/RUBY.jpg)
 
 
 The RUBY Equipment gem has an equipment cost of 1.
@@ -30,14 +30,14 @@ The RUBY Equipment gem has an equipment cost of 1.
 
 #### Special
 
-![SANCTUARY give a unit a static ability, when on the Offering Altar, the equipped Units AC is increased by 5.](./equipment/SANCTUARY.jpg)
+![SANCTUARY give a unit a static ability, when on the Offering Altar, the equipped Units AC is increased by 5.](./7_equipment/SANCTUARY.jpg)
 
 The SANCTUARY Equipment special gives a static stat boost and has an equipment cost of 2.
 
 
 #### Special Action
 
-![TRASH TO TREASURE provides the Unit with an ability that replaces its Movement.](./equipment/TRASH_TO_TREASURE.jpg)
+![TRASH TO TREASURE provides the Unit with an ability that replaces its Movement.](./7_equipment/TRASH_TO_TREASURE.jpg)
 
 The TRASH TO TREASURE Equipment special gives an optional action that replaces a units movement action for a turn, and has an equipment cost of 2.
 
@@ -48,7 +48,7 @@ ___
 
 Some equipment provides a unit with a Special Action.
 
-![LONG SHOT costs 3 ES and gives an optional Special Action.](./equipment/LONG_SHOT.jpg)
+![LONG SHOT costs 3 ES and gives an optional Special Action.](./7_equipment/LONG_SHOT.jpg)
 
 
 LONG SHOT provides an action that deals 4 DMG at a RNG of 10-14.

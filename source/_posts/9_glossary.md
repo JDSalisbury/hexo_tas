@@ -1,0 +1,24 @@
+---
+title: Glossary
+date: 2020-12-14 11:43:12
+---
+
+#### Game Mechancis
+DISCARD PILE:
+ENEMY UNIT:
+EQUIPMENT:
+FATE CARD:
+HAND:
+OFFERING FOUNTAINS:
+SACRAFICE:
+UNIT:
+
+
+
+#### Unit Abilities
+DEVOUR:
+ENTREAT:
+LOOT:
+SOUL-LINK:
+TOXICITY: 
+UNIMPEDED:

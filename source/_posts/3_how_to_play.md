@@ -6,7 +6,7 @@ ___
 Players take turns moving around the board fighting Enemy Units and/or sacraficing life to Offering Fountains.
 The winner is the last player with Units left on the board or the player to sacrafice 4 HP into all 4 Offering Fountains.
 
-![Offering Point](./how_to_play/Offering-Fountain.jpg)
+![Offering Point](./3_how_to_play/Offering-Fountain.jpg)
 
 <br>
 

@@ -4,7 +4,7 @@ date: 2020-12-14 06:40:12
 ---
 ___
 
-![Quick Play](./quick_play/qp.jpg)
+![Quick Play](./2_quick_play/qp.jpg)
 
 
 ### Step 1 Pick Your Units
@@ -25,7 +25,7 @@ Each player then creates an army with a point value of 10 or less to play with o
 
 Point value of a card can be found in the upper left hand corner of the card.
 
-![pv](./quick_play/CRAWLER-3-pv.jpg)
+![pv](./2_quick_play/CRAWLER-3-pv.jpg)
 
 <br>
 

@@ -1,10 +1,10 @@
 ---
-title: TacticAS
+title: Tacticas
 date: 2020-12-13 06:40:12
 ---
 ___
 <br>
-T.A.S. is a tabeltop minitaures game, Where 2-4 players battle as Gods with powerful Units from across time and space to decide who the true victor is. 
+Tacticas. is a tabeltop minitaures game, Where 2-4 players battle as Gods with powerful Units from across time and space to decide who the true victor is. 
 
 Do you choose to make your Units sacrafice themselves for your cause? Or are you the type of God to cross weapons on the battle field for true glory.  
 
