@@ -5,14 +5,23 @@ date: 2020-12-14 11:43:12
 
 #### Game Mechancis
 DISCARD PILE:
+
 ENEMY UNIT:
+
 EQUIPMENT:
+
 FATE CARD:
+
 HAND:
+
 OFFERING FOUNTAINS:
+
 SACRAFICE:
+
 UNIT:
+
 BATTLE ZONE: The board.
+
 CONDEMN: Whatever is condemend is removed from the game, it doesn't go to the discard pile, it cannot be revived.
 
 
